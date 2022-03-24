@@ -1,0 +1,32 @@
+.search {
+  height: 45px;
+  background: #deeaf1;
+}
+
+input {
+  background-color: #c9c9c9;
+  height: 20px;
+  border: 0px;
+}
+
+.searchBtn {
+  border: 0px;
+  background-image: url(../img/search/search_icon.png);
+  width: 35px;
+  height: 30px;
+}
+
+.icon1 {
+  margin-right: 6px;
+  border: 0px;
+  background-image: url(../img/search/icon1.png);
+  width: 26px;
+  height: 20px;
+}
+
+.icon2 {
+  border: 0px;
+  background-image: url(../img/search/icon2.png);
+  width: 26px;
+  height: 20px;
+}
